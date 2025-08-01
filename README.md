@@ -9,3 +9,10 @@ _Checkout, **Tela de inicio** e carrinho de compras._
 
 ###### Melhorias o Projeto. 
 __Melhoria 1__ e _Melhoria 2_.
+
+## Linguagens do projeto.
+
+* HTML
+* CSS 
+* JavaScript
+* PHP
