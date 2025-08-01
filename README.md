@@ -64,5 +64,5 @@ function soma(a, b) {
 ## Lista de tarefas a fazer.
 
 - [x] Área de clientes.
-- [] Integração dos clientes.
+- [ ] Integração dos clientes.
 - [x] Bônus.
