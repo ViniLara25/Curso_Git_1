@@ -34,3 +34,8 @@ __Melhoria 1__ e _Melhoria 2_.
 ## Image Externa
 
 ![Logo do Python](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
+
+<div style="display: flex;">
+  <img src="https://via.placeholder.com/150" alt="Descrição da Imagem 1" style="width:150px; margin-right: 10px;">
+  <img src="https://via.placeholder.com/150" alt="Descrição da Imagem 2" style="width:150px;">
+</div>
