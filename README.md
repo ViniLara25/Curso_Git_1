@@ -8,4 +8,4 @@ _Checkout, **Tela de inicio** e carrinho de compras._
 **Checkout, _Tela de inicio_ e carrinho de compras.**
 
 ###### Melhorias o Projeto. 
-__Melhoria 1__ e _Meloria 2_.
+__Melhoria 1__ e _Melhoria 2_.
