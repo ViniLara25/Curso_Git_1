@@ -4,7 +4,8 @@ Vamos criar um **e-commerce**, *para empresa X* seguimntado no ramo de tec.
 
 ## Funcionalidades.
 
-Checkout, Tela de inicio e carrinho de compras.
+_Checkout, **Tela de inicio** e carrinho de compras._
+**Checkout, _Tela de inicio_ e carrinho de compras.**
 
 ###### Melhorias o Projeto. 
-Melhoria 1 e Meloria 2.
+__Melhoria 1__ e _Meloria 2_.
