@@ -33,4 +33,4 @@ __Melhoria 1__ e _Melhoria 2_.
 
 ## Image Externa
 
-![Logo do Python](https://www.google.com/imgres?q=imagem%20python&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F0a%2FPython.svg%2F1200px-Python.svg.png&imgrefurl=https%3A%2F%2Fpt.wikiversity.org%2Fwiki%2FFicheiro%3APython.svg&docid=c70XvZKZv3dI7M&tbnid=7-rm6sKYC5DBCM&w=1200&h=1200&hcb=2)
+![Logo do Python](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
