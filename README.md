@@ -21,5 +21,8 @@ __Melhoria 1__ e _Melhoria 2_.
 ### Funcionalidades a desenvolver.
 
 1. Área de membros.
+    1. Lista encadeada.
+    2. Login diferente.
+    3. CSS diferente.
 2. Integraçã com pagamentos.
 3. Bônus primeira compra.
