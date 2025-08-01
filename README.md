@@ -26,3 +26,7 @@ __Melhoria 1__ e _Melhoria 2_.
     3. CSS diferente.
 2. Integraçã com pagamentos.
 3. Bônus primeira compra.
+
+## Imagem Local
+
+![Logo do Git - GitHub](ChatGPT%20Image%201%20de%20ago.%20de%202025,%2018_51_54.png)
